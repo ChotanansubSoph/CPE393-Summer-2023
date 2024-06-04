@@ -1,0 +1,32 @@
+/* Block */
+.block {
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 10px;
+  }
+  
+  /* Inline */
+  .inline {
+    display: inline;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin-right: 10px;
+  }
+  
+  /* Inline-Block */
+  .inline-block {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-right: 10px;
+  }
+  
+  /* None */
+  .none {
+    display: none;
+  }
+  

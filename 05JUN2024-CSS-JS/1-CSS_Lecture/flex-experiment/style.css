@@ -1,0 +1,31 @@
+.content{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 300px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.box1{
+    width: 50x;
+    height: 50px;
+    box-sizing: border-box;
+    border: 5px solid tomato;
+}
+
+.box2{
+    width: 50x;
+    height: 50px;
+    box-sizing: border-box;
+    border: 5px solid skyblue;
+}
+
+.box3{
+    width: 50x;
+    height: 50px;
+    box-sizing: border-box;
+    border: 5px solid palegreen;
+}
+

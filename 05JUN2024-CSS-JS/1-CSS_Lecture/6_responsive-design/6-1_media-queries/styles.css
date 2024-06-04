@@ -1,0 +1,42 @@
+/* Default styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: grid;
+    grid-template-columns: 1fr; /* Single column by default */
+    gap: 20px; /* Gap between grid items */
+    background-color: lightgray;
+    border-radius: 10px;
+    padding: 20px;
+}
+header, nav, main, footer {
+    padding: 20px;
+    background-color: #fff; /* White background for inner elements */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for inner elements */
+}
+
+/* Media queries for different viewport widths */
+/* For viewport width up to 768px */
+@media screen and (max-width: 768px) {
+    .container {
+        grid-template-columns: 1fr; /* Single column for smaller screens */
+    }
+}
+
+/* For viewport width between 769px and 1024px */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .container {
+        grid-template-columns: repeat(2, 1fr); /* Two columns for medium screens */
+    }
+}
+
+/* For viewport width greater than 1024px */
+@media screen and (min-width: 1025px) {
+    .container {
+        grid-template-columns: repeat(3, 1fr); /* Three columns for larger screens */
+    }
+}

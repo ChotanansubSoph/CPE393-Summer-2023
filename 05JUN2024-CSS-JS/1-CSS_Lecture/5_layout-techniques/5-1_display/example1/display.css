@@ -1,0 +1,21 @@
+.box, .inline-box {
+    border: 2px dashed red;
+    height: 100px;
+    width: 100px;
+  }
+  
+  .is-block {
+    display: block;
+  }
+  
+  .is-inline-block {
+    display: inline-block;
+  }
+  
+  .is-inline {
+    display: inline;
+    border: 2px dashed blue;
+    height: 900px;
+    width: 900px;
+    padding: 10px;
+  }

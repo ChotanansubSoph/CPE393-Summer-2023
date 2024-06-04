@@ -1,0 +1,57 @@
+ /* 🚀 Mission 1:  Adjust the Layout of Our Crewmate
+        🎯 Target:
+            - Body parts need to be aligned together.
+            - Our crewmate needs to be centered on the screen.
+        📝 Direction:
+            - Select the body, then style it!
+        💡 Hint: 
+            - Use `flex`, `justify-content`, and `align-items`
+ */
+ 
+ body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+ /*🚀  Mission 2: Add color to our crewmate 
+      🎯 Target:
+            -  Our crewmate's color needs to be close to the original.
+        📝 Direction:
+             - Check Among Us crewmate and pick your favorite crewmate 
+              from https://among-us.fandom.com/wiki/Colors 
+            -  Styling given components to resemble the target image closely.
+            -  Creativity and attention to detail are encouraged. 
+ */
+
+ .impostor .body .fill {
+  background: #555555; 
+}
+.impostor .body .shadow {
+  background: #888888; 
+}
+.impostor .glass-bowl {
+  background: #AAAAAA; 
+}
+.impostor .glass-bowl .shadow-blue {
+  background: #CCCCCC; 
+}
+.impostor .glass-bowl .shadow-white {
+  background: #FFFFFF; 
+}
+.impostor .legs .leg-left {
+  background: #555555;
+}
+.impostor .legs .leg-right {
+  background: #555555; 
+}
+.impostor .backpack {
+  background: #777777; 
+}
+.impostor .backpack .shadow {
+  background: #555555; 
+}
+.impostor .floor-shadow {
+  background: #333333; 
+}
