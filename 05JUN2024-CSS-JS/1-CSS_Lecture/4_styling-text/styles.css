@@ -1,0 +1,34 @@
+/* Font Family */
+.font-family {
+    font-family: Arial, sans-serif; /* Sets the font style for text. */
+}
+
+/* Font Size */
+.font-size {
+    font-size: 24px; /* Determines the size of the text. */
+}
+
+/* Font Weight */
+.font-weight {
+    font-weight: bold; /* Specifies the thickness of the text. */
+}
+
+/* Font Style */
+.font-style {
+    font-style: italic; /* Defines the style of the text, such as italics. */
+}
+
+/* Color */
+.color {
+    color: red; /* Sets the color of the text. */
+}
+
+/* Text Align */
+.text-align {
+    text-align: center; /* Aligns the text within its container. */
+}
+
+/* Text Decoration */
+.text-decoration {
+    text-decoration: underline; /* Adds decoration to text, like underline. */
+}
