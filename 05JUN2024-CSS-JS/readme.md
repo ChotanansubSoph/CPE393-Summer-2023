@@ -6,3 +6,7 @@
 - 📚 Slides
   - [Canva]()
   - [Pdf]()
+ 
+
+<a href="https://github.com/ChotanansubSoph/CPE393-Summer-2023/archive/main.zip
+" title="Download materials" download>== Download Materials ==</a>
