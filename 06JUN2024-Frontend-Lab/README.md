@@ -14,7 +14,7 @@ Create a visually appealing website for the KMUTT Student Community to showcase 
 
 ### 1. Project Setup
 
-- Download the [project template]() or set up manually following these steps:
+- Download the [project template](https://drive.google.com/file/d/1jUm2u1bMoZInfG9NTeC4qtA7uiqK9-Xh/view?usp=sharing) or set up manually following these steps:
     - Create a new project folder named `KMUTT_Student_Community`.
     - Inside this folder, create two files: `index.html` and `styles.css`.
     - Create a subfolder named `img` to store all the images.
