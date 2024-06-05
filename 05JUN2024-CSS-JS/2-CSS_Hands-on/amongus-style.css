@@ -8,11 +8,7 @@
             - Use `flex`, `justify-content`, and `align-items`
  */
  
- body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
 
 
  /*🚀  Mission 2: Add color to our crewmate 
