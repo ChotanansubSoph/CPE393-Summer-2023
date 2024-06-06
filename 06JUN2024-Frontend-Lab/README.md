@@ -97,14 +97,14 @@ Create a visually appealing website for the KMUTT Student Community to showcase 
 - Ensure all images are displayed correctly and all styles are applied as expected.
 - Validate the HTML and CSS using tools like the W3C Markup Validation Service and CSS Validator to ensure there are no errors.
 
+## Useful Tools
+- [Gradient Refferences](https://gradients.shecodes.io/gradients)
+- [Shadow Refferences](https://getcssscan.com/css-box-shadow-examples)
+
+
 ## Final Notes:
 - Ensure all image paths are correct relative to the `index.html` file.
 - Feel free to customize the text content and styles to add a personal touch.
 - Experiment with different color schemes and fonts to see how they affect the overall design.
 
 By following these instructions, you will create a cohesive and visually appealing website for the KMUTT Student Community. Use the provided image resources and aim to match the design shown in the example image.
-
-
-## Useful Tools
-- [Gradient Refferences](https://gradients.shecodes.io/gradients)
-- [Shadow Refferences](https://getcssscan.com/css-box-shadow-examples)
