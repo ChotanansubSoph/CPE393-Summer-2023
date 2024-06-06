@@ -106,6 +106,7 @@ Create a visually appealing website for the KMUTT Student Community to showcase 
     - justify-content, flex-align-items
     - [flex-wrap](https://www.w3schools.com/cssref/css3_pr_flex-wrap.php)  (addition from lecture)
 - Image Box manipulation
+    - Positioning: relative, absolute 
     - [overflow](https://www.w3schools.com/css/css_overflow.asp)
 ## Final Notes:
 - Ensure all image paths are correct relative to the `index.html` file.
