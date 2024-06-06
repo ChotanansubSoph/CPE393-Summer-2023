@@ -97,7 +97,7 @@ Create a visually appealing website for the KMUTT Student Community to showcase 
 - Ensure all images are displayed correctly and all styles are applied as expected.
 - Validate the HTML and CSS using tools like the W3C Markup Validation Service and CSS Validator to ensure there are no errors.
 
-## Useful Tools
+## Useful Tools (Additional) 
 - [Gradient Refferences](https://gradients.shecodes.io/gradients)
 - [Shadow Refferences](https://getcssscan.com/css-box-shadow-examples)
 
