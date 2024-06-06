@@ -103,3 +103,8 @@ Create a visually appealing website for the KMUTT Student Community to showcase 
 - Experiment with different color schemes and fonts to see how they affect the overall design.
 
 By following these instructions, you will create a cohesive and visually appealing website for the KMUTT Student Community. Use the provided image resources and aim to match the design shown in the example image.
+
+
+## Useful Tools
+- [Gradient Refferences](https://gradients.shecodes.io/gradients)
+- [Shadow Refferences](https://getcssscan.com/css-box-shadow-examples)
