@@ -1,5 +1,7 @@
 # 📚 CPE393 Practical Study Materials
 
+<img align="right" width="250"  src="https://github.com/ChotanansubSoph/ChotanansubSoph/blob/main/img/cpe_kmutt.gif?raw=true"/>
+
 #### 💡 Course Information
 - **Course**: CPE 393: Special Topic III: Introduction to Web Development
 - **Semester**: Summer, 2023
