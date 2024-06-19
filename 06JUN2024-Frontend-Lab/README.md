@@ -97,6 +97,17 @@ Create a visually appealing website for the KMUTT Student Community to showcase 
 - Ensure all images are displayed correctly and all styles are applied as expected.
 - Validate the HTML and CSS using tools like the W3C Markup Validation Service and CSS Validator to ensure there are no errors.
 
+## Useful Tools (Additional) 
+- [Gradient Refferences](https://gradients.shecodes.io/gradients)
+- [Shadow Refferences](https://getcssscan.com/css-box-shadow-examples)
+
+## 🚀 Hints: 
+- Layout technique:
+    - justify-content, flex-align-items
+    - [flex-wrap](https://www.w3schools.com/cssref/css3_pr_flex-wrap.php)  (addition from lecture)
+- Image Box manipulation
+    - Positioning: relative, absolute 
+    - [overflow](https://www.w3schools.com/css/css_overflow.asp)
 ## Final Notes:
 - Ensure all image paths are correct relative to the `index.html` file.
 - Feel free to customize the text content and styles to add a personal touch.
