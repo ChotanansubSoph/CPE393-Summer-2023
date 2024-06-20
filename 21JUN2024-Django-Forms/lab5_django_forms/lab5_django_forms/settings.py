@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'lab5_django_froms.urls'
+ROOT_URLCONF = 'lab5_django_forms.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'lab5_django_froms.wsgi.application'
+WSGI_APPLICATION = 'lab5_django_forms.wsgi.application'
 
 
 # Database
@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'lab5_django_froms.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'lab2',
+        'NAME': 'cpe393',
         'USER': 'postgres',
-        'PASSWORD': 'cpe393-2024',
+        'PASSWORD': '4713',
         'HOST': 'localhost',
         'PORT': '',
     }

@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'lab5_django_froms.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'lab5_django_forms.settings')
 
 application = get_wsgi_application()

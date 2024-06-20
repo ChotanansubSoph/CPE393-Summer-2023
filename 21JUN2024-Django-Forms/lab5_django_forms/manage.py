@@ -5,7 +5,7 @@ import sys
 
 
 def main():
-    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'lab5_django_froms.settings')
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'lab5_django_forms.settings')
     try:
         from django.core.management import execute_from_command_line
     except ImportError as exc:

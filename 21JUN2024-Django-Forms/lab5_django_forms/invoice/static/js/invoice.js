@@ -228,13 +228,13 @@ $(document).ready( function () {
     $('#btnSave').click(function () {
         var customer_code = $('#txt_CustomerName').val().trim();    // get customer_code from text box
         if (customer_code == '') {                                  // check customer_code is empty
-            alert('กรุณาระบุ Customer');
+            alert('Please specify Customer');
             $('#txt_CustomerCode').focus();
             return false;
         }
         var invoice_date = $('#txt_InvoiceDate').val().trim();      // get invoice data from text box
         if (!dateRegex.test(invoice_date)) {                        // check invoice data is correct format DD/MM/YYYY
-            alert('กรุณาระบุวันที่ ให้ถูกต้อง');
+            alert('Please specify a correct date');
             $('#txt_InvoiceDate').focus();
             return false;
         }
@@ -250,10 +250,10 @@ $(document).ready( function () {
                 success: function  (data) {
                     if (data.error) {                               // if backend return error message, log it
                         console.log(data.error);
-                        alert('การบันทึกล้มเหลว');
+                        alert('Save failed');
                     } else {
                         $('#txt_InvoiceNo').val(data.invoice.invoice_no)    // SAVE success, show new invoice no
-                        alert('บันทึกสำเร็จ');
+                        alert('Save successful');
                     }                    
                 },
             });  
@@ -269,9 +269,9 @@ $(document).ready( function () {
                 success: function  (data) {
                     if (data.error) {                           // if backend return error message, log it
                         console.log(data.error);
-                        alert('การบันทึกล้มเหลว');
+                        alert('Save failed');
                     } else {            
-                        alert('บันทึกสำเร็จ');                      // SAVE success, show popup message
+                        alert('Save successful');                      // SAVE success, show popup message
                     }
                 },
             }); 
@@ -281,10 +281,10 @@ $(document).ready( function () {
     /* Click button 'DELETE', call backend /invoice/delete */
     $('#btnDelete').click(function () {
         if ($('#txt_InvoiceNo').val() == '<new>') {
-            alert ('ไม่สามารถลบ Invoice ใหม่ได้');
+            alert ('Unable to delete new Invoice');
             return false;
         }
-        if (confirm ("คุณต้องการลบ Invoice No : '" + $('#txt_InvoiceNo').val() + "' ")) {
+        if (confirm("Do you want to delete Invoice No: '" + $('#txt_InvoiceNo').val() + "'?")) {
             console.log('Delete ' + $('#txt_InvoiceNo').val());
             var token = $('[name=csrfmiddlewaretoken]').val();          // get django security code
             $.ajax({                                                    // call backend /invoice/delete
