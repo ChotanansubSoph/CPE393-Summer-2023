@@ -1,4 +1,4 @@
-# ⚙️📝 Lab Instructions: Section 1 - Create a University Activities and Clubs Website
+# 🖥️ Lab Instructions: Section 1 - Create a University Activities and Clubs Website
 
 <img src="expected_site.png" alt="drawing" width="700"/>
 
