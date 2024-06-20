@@ -1,12 +1,28 @@
 # ⚙️ Lab1-2: PostgreSQL & Python
 
+### 👨🏻‍💻 Setup Environment
+- (1) PostgreSQL:
+  - [Download PostgreSQL](https://www.postgresql.org/download/)    
+  - Note: During the installation process, make sure to add all components,including:
+      - ☑️ PostgreSQL Server
+      - ☑️ pgAdmin4
+      - ☑️ Stack Builder
+      - ☑️ Command Line Tools
+- (2) pgAdmin4:
+    - [Download pgAdmin](https://www.pgadmin.org/download/)
+    - or download via Brew (macos)
+      ```shell
+      brew install --cask pgadmin4
+      ```
+      
 ## Lab1:  PostgreSQL Tables and Data
 
 Create Tables and Insert Data
-
 - In your database, create the following tables and fields, and insert the provided data.
 - Show the SQL commands for creating and inserting data into each table in your report.
 - Display the table with data from PostgreSQL.
+
+
 
 ### 1.1. Table: Product_Type
 
