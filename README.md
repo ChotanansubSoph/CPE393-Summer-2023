@@ -28,7 +28,7 @@ The study material provided covers various parts of the subject, including:
     - Lab3: [20-JUN-2024](https://github.com/ChotanansubSoph/CPE393-Summer-2023/tree/main/20JUN2024-WebServer-Django)
   - 2.4 `Django Framework`
     - Lab4 Models: [20-JUN-2024](https://github.com/ChotanansubSoph/CPE393-Summer-2023/tree/main/20JUN2024-WebServer-Django)
-    - Lab5 Forms: [21-JUN-2024]()
+    - Lab5 Forms: [21-JUN-2024](https://github.com/ChotanansubSoph/CPE393-Summer-2023/tree/main/21JUN2024-Django-Forms)
     
 > [!NOTE]  
 > 📖 This repository includes only some parts of the entire subject.  
