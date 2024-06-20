@@ -1,4 +1,4 @@
-# ⚙️ Lab1-2: PostgreSQL & Python
+# 🖥️ Lab1-2: PostgreSQL & Python
 
 ### 👨🏻‍💻 Setup Environment
 - (1) PostgreSQL:
