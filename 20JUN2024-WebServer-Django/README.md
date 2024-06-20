@@ -1,4 +1,4 @@
-# ⚙️ Lab 3-4 : Web Server & Django
+# 🖥️ Lab 3-4 : Web Server & Django
 
 ## Lab 3: Web Server
 
