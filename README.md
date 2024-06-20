@@ -20,14 +20,15 @@ The study material provided covers various parts of the subject, including:
     - Lab: [06-JUN-2024](https://github.com/ChotanansubSoph/CPE393-Summer-2023/tree/main/06JUN2024-Frontend-Lab)
 
 - **(2) 🗂️ Database System & Basic Web Application:**
-  - `PostgreSQL`
+  - 2.1 `PostgreSQL`
     - Lab1: [19-JUN-2024](https://github.com/ChotanansubSoph/CPE393-Summer-2023/tree/main/19JUN2024-PostgreSQL-Python)
-  - `Database Connection with Python`
+  - 2.2 `Database Connection with Python`
     - Lab2: [19-JUN-2024](https://github.com/ChotanansubSoph/CPE393-Summer-2023/tree/main/19JUN2024-PostgreSQL-Python)
-  - `Basic Webserver with HTTP server library`
+  - 2.3 `Basic Webserver with HTTP server library`
     - Lab3: [20-JUN-2024](https://github.com/ChotanansubSoph/CPE393-Summer-2023/tree/main/20JUN2024-WebServer-Django)
-  - `Django Application`
-    - Lab4: [20-JUN-2024](https://github.com/ChotanansubSoph/CPE393-Summer-2023/tree/main/20JUN2024-WebServer-Django)
+  - 2.4 `Django Framework`
+    - Lab4 Models: [20-JUN-2024](https://github.com/ChotanansubSoph/CPE393-Summer-2023/tree/main/20JUN2024-WebServer-Django)
+    - Lab5 Forms: [21-JUN-2024]()
     
 > [!NOTE]  
 > 📖 This repository includes only some parts of the entire subject.  

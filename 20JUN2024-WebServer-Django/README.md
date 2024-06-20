@@ -49,3 +49,20 @@ Add the Reports related to Receipts to your application on the Django framework.
 **Submission**
 
 Submit your source code including a sample run with scripts used and output created as a PDF file via upload to LEB2 under the topic “Lab 3 & Lab 4”.
+
+
+## Lab 4 Additional Setup
+
+Setup databse in setup.py
+```python
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'YourDBname',
+        'USER': 'postgres',
+        'PASSWORD': 'YourPassword',
+        'HOST': 'localhost',
+        'PORT': '',
+    }
+}
+```
