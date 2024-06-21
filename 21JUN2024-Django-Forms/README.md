@@ -25,8 +25,8 @@ Provided Project Directory:
 > [!NOTE]  
 > You can explore an example of Ajax in the invoice app at `21JUN2024-Django-Forms/lab5_django_forms/invoice/static/js/invoice.js` to learn more.
 
-## 📝 Task
-- **Create Receipt App**
+## 📝 (not-a-homework)
+- **Try to create receipt app!**
   - Navigate to the `/lab5_django-forms` directory, then use the command `django-admin startapp receipt`.
   - Add the app ‘receipt’ to `/lab5/settings.py` under INSTALLED_APPS.
   - Modify `/lab5/urls.py` to include routes for the new app.
