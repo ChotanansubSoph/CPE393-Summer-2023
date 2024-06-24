@@ -1,4 +1,4 @@
-# 🖥️ Lab1-2: PostgreSQL & Python
+# 🖥️ Lab1-2: PostgreSQL & Database Connection with Python
 
 ### 👨🏻‍💻 Setup Environment
 - (1) PostgreSQL:
@@ -112,7 +112,7 @@ Create Tables and Insert Data
 | IN101/22  | HD02        | 1        | 2000.00   | 2000.00      |
 ---
 
-## Lab 2: Python 
+## Lab 2: Database Connection with Python
 
 The Python program provided in class will be used as an example. The program will be based on the following example data for three classes (objects): Product, Customer, and Invoice.
 
